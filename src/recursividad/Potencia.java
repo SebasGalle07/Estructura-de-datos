@@ -1,5 +1,5 @@
 package recursividad;
-
+//hola
 import java.util.Scanner;
 
 public class Potencia {
