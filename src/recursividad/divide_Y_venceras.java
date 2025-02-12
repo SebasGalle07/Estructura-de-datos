@@ -15,7 +15,7 @@ public class divide_Y_venceras {
 
             // Caso base: el elemento está en la posición media
             if (arreglo[medio] == objetivo) {
-                System.out.println("  ✅ Elemento encontrado en la posición " + medio);
+                System.out.println("  Elemento encontrado en la posición " + medio);
                 return medio;
             }
 
@@ -31,7 +31,7 @@ public class divide_Y_venceras {
 
         public static void main(String[] args) {
             int[] arreglo = {1, 3, 5, 7, 9, 11, 13, 15}; // Arreglo ordenado
-            int objetivo = 9; // Elemento a buscar
+            int objetivo = 2; // Elemento a buscar
 
             int resultado = busquedaBinaria(arreglo, 0, arreglo.length - 1, objetivo);
 
