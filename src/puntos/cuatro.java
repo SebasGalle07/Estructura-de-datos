@@ -2,7 +2,7 @@ package puntos;
 
 import java.util.*;
 
-public class punto4 {
+public class cuatro {
     public static void main(String[] args) {
         List<Integer> lista = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
         System.out.println("Lista original: " + lista);
