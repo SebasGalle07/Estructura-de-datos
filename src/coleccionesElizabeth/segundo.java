@@ -1,4 +1,4 @@
-package colecciones;
+package coleccionesElizabeth;
 import java.util.Stack;
 
 public class segundo {

@@ -1,4 +1,4 @@
-package colecciones;
+package coleccionesElizabeth;
 import java.util.PriorityQueue;
 
 public class cuarto {

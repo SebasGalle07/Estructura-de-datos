@@ -2,7 +2,7 @@ package coleccionesElizabeth;
 
 import java.util.*;
 
-public class punto5 {
+public class cinco {
     public static void main(String[] args) {
         // HashMap - No mantiene orden
         Map<Integer, String> hashMapProductos = new HashMap<>();

@@ -1,5 +1,4 @@
-package colecciones;
-import java.util.Objects;
+package coleccionesElizabeth;
 import java.util.TreeSet;
 
 import java.util.Comparator;
