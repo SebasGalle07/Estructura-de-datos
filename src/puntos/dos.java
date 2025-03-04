@@ -1,6 +1,6 @@
-package recursividad;
+package puntos;
 
-public class divide_Y_venceras2 {
+public class dos {
         // Método de búsqueda binaria recursiva
         public static int busquedaBinaria(int[] arreglo, int izquierda, int derecha, int objetivo) {
             if (izquierda > derecha) {
